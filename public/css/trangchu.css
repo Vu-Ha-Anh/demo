@@ -1,0 +1,158 @@
+.row1{
+    background-color: rgb(65, 60, 60);
+}
+.nav .nav-item .nav-link {
+    color: aliceblue;
+}
+ .nav-link:hover{
+    color: rgb(230, 47, 47) !important;
+}
+footer{
+    color: aliceblue;
+}
+.icontk{
+    position: absolute;
+    margin-left: -40px;
+    margin-top: 15px;
+}
+.icongh{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 15px;
+    color: #F54343;
+}
+.row2{
+    background-color: rgb(238, 244, 245);
+    text-align: center;
+}
+button{
+    color: #F54343;
+    border: 1px solid #F54343;
+    background-color: white;
+   
+    border-radius: 20px;
+}
+button:hover{
+    color: white;
+    background-color:#F54343 ;
+}
+.button{
+    margin-bottom: 20px;
+}
+.main1{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.chu{
+    color: rgb(114, 98, 98);
+    margin-top: 8px;
+}
+.text{
+    background-color: rgb(252, 251, 251);
+    border: rgb(216, 215, 213) solid 1px;
+    margin-bottom: 20px;
+}
+.abc{
+    
+    width: 300px;
+    margin: 30px 30px 20px 30px;
+}
+.anh img {
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.yeuthich {
+    display: flex;
+}
+.sale {
+    border: 1px solid bisque;
+    width: 50%;
+    display: flex;
+    background-color: #F54343;
+    border: 1px solid #F54343;
+    color: white ;
+    width: 85%;
+    height: 40px;
+    text-align: center;
+    padding-top: 5px;
+}
+.khuyenmai {
+    display: flex;
+    margin: 15px 15px 0px 0px;
+}
+
+.flashsale{
+    margin-left: 10px;
+}
+.yth{
+    background-color: #F54343;
+    border: 1px solid #F54343;
+    color: white ;
+    border-radius: 30px;
+    width: 80px;
+    height: 40px;
+    text-align: center;
+    padding-top: 5px;
+}
+.gia{
+    background-color: rgb(238, 244, 245);
+    width: 58%;
+    margin: 15px 20px 0px 0px;
+    height: 35px;
+}
+.km{
+    border: #F54343 solid 2px;
+    height: 30px;
+    margin-left: 20px;
+    color: #F54343;
+    width: 170px;
+    height: 40px;
+    text-align: center;
+    padding-top: 5px;
+    margin-bottom: 15px;
+}
+.row3{
+    margin-top: 50px;
+}
+.soluong {
+    display: flex;
+    margin: 15px 30px 30px 0px;
+}
+.sl{
+    margin-left: 110px;
+}
+.sluong{
+    width: 70px;
+}
+
+ul li {
+    display: block;
+}
+ul li a {
+    text-decoration: none;
+    color: black;
+}
+.menu {
+    float: left;
+    text-align: left;
+    margin: 50px 20px 0px 30px;
+}
+.menu ul li {
+    border: 1px solid rgba(128, 128, 128, 0.507);
+    padding: 5px;
+    margin-right: 30px;
+    width: 200px;
+}
+
+.menu h3 {
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.781);
+    margin-left: 40px;
+}
+.anhbia{
+    color: aliceblue; 
+}
+.row5{
+    margin-left: 180px;
+}
+
